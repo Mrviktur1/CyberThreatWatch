@@ -1,0 +1,5 @@
+
+---
+
+### 📄 **3. .gitignore** (Hides Private Files)
+**Save in main folder**

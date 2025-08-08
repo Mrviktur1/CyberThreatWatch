@@ -1,0 +1,5 @@
+
+---
+
+### 📄 **2. requirements.txt** (Software Dependencies)
+**Save in main folder**
